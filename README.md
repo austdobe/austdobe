@@ -20,16 +20,24 @@
 
 #### 🔨 I'm currently developing....
 
-   1. A Vue 3 portfolio.
-   2. A Pantry App
+  1. A Vue 3 portfolio.
+  2. A Pantry App
 
 #### 🔮 Near Future Accomplishments...
 
-   1. Deployment of Pantry App
-   2. Learn Python Language
-   3. Convert Raspberry Pi to Cloud server
-   4. Develop Personal AI Assistant hosted on new cloud server.
+  1. Deployment of Pantry App
+  2. Learn Python Language
+  3. Convert Raspberry Pi to Cloud server
+  4. Develop Personal AI Assistant hosted on new cloud server.
    
 ## Current Github Activity
 
 <!--START_SECTION:activity-->
+
+
+## Contact me 
+  
+  [1]: http://www.github.com/austdobe
+  [2]: https://www.linkedin.com/in/austin-dober
+  [3]: https://www.facebook.com/adoberweb
+
