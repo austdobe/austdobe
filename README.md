@@ -11,8 +11,9 @@
     <img src="https://img.shields.io/badge/Profile-blue?style=for-the-badge&logo=data:favicon-16x16.png&logoColor=white" alt="Site Badge"/>
   </a>
 </div>
-<h1>Hello there! Welcome to my github profile.<h1>
 <img src="https://komarev.com/ghpvc/?username=austdobe&style=flat-square&color=blue" alt="Visitor Count"/>
+<h1>Hello there! Welcome to my github profile.<h1>
+
 </div>
 
 ---
