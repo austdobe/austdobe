@@ -12,12 +12,12 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=austdobe&style=flat-square&color=blue" alt="Visitor Count"/>
-<h1>Hello there! Welcome to my github profile.<h1>
-
+<h1>Welcome To My Github Profile.<h1>
 </div>
-
----
-
+<div align="center">
+  <img src="https://media.giphy.com/media/3oxHQM2nelb4qWtoje/giphy.gif" />
+</div>
+  
 ## 🤔 Who am I?
 
 #### I am a ... 
