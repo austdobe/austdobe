@@ -71,6 +71,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+  
 ## Current Github Activity
 
 <!--START_SECTION:activity-->
@@ -81,6 +82,9 @@
 ## :fire: My Github Stat:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=austdobe&theme=dark&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austdobe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Contact me 
   
