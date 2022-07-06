@@ -52,6 +52,10 @@
 <!--END_SECTION:activity-->
 
 
+## :fire: My Github Stat:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=austdobe&theme=dark&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
+
 ## Contact me 
   
   [1]: http://www.github.com/austdobe
