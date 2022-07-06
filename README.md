@@ -1,10 +1,11 @@
-### Hi there! 👋
+### Hello there! Welcome to my github profile.
 
 ## 🤔 Who am I?
 
 #### I am a ... 
 
   -  💻 Full Stack JavaScript Developer, who
+  -  🧑‍🏫 Has expeirence developing TechEd software.
   -  🧑‍💻 Developed and maintained over 30 different applications.
 
 #### When I am not developing, I am a...
