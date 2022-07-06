@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**austdobe/austdobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤔 Who am I?
 
-Here are some ideas to get you started:
+#### I am a ... 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  -  💻 Full Stack JavaScript Developer, who
+  -  🧑‍💻 Developed and maintained over 30 different applications.
+
+#### When I am not developing, I am a...
+
+  -  🛠️ General handyman,
+  -  🏎️ Car enthusiast,
+  -  🌳 Nature Lover
+
+## 🤔 What am I currently up to?
+
+#### 🔨 I'm currently developing....
+
+   1. A Vue 3 portfolio.
+   2. A Pantry App
+
+#### 🔮 Near Future Accomplishments...
+
+   1. Deployment of Pantry App
+   2. Learn Python Language
+   3. Convert Raspberry Pi to Cloud server
+   4. Develop Personal AI Assistant hosted on new cloud server.
+   
+## Current Github Activity
+
+<!--START_SECTION:activity-->
