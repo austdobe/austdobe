@@ -48,6 +48,8 @@
 ## Current Github Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/austdobe/portfolio2022/pull/3) in [austdobe/portfolio2022](https://github.com/austdobe/portfolio2022)
+<!--END_SECTION:activity-->
 
 
 ## Contact me 
