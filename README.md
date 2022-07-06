@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h2>Welcome To My Github Profile!
+  <img src="https://media.giphy.com/media/3oxHQM2nelb4qWtoje/giphy.gif" />
   <div id="badges">
     <a href="https://linkedin.com/in/austin-dober">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,14 +14,8 @@
     
   </div>
   <img src="https://komarev.com/ghpvc/?username=austdobe&style=flat-square&color=blue" alt="Visitor Count"/>
-  <h2>Welcome To My Github Profile!
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/3oxHQM2nelb4qWtoje/giphy.gif" />
 </div>
     
----
-  
 ## 🤔 Who am I?
 
 #### I am a ... 
