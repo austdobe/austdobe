@@ -1,5 +1,7 @@
-<div id="header" align="center">
+<div align="center">
   <h2>Welcome To My Github Profile!
+</div>
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/3oxHQM2nelb4qWtoje/giphy.gif" />
   <div id="badges">
     <a href="https://linkedin.com/in/austin-dober">
