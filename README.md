@@ -1,22 +1,24 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://linkedin.com/in/austin-dober">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.facebook.com/adoberweb">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="https://austindober.com">
-    <img src="https://img.shields.io/badge/Profile-blue?style=for-the-badge&logo=data:favicon-16x16.png&logoColor=white" alt="Site Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=austdobe&style=flat-square&color=blue" alt="Visitor Count"/>
-<h1>Welcome To My Github Profile.<h1>
+    <a href="https://linkedin.com/in/austin-dober">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.facebook.com/adoberweb">
+      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    </a>
+    <a href="https://austindober.com">
+      <img src="https://img.shields.io/badge/Profile-blue?style=for-the-badge&logo=data:favicon-16x16.png&logoColor=white" alt="Site Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=austdobe&style=flat-square&color=blue" alt="Visitor Count"/>
+  <h2 text-decoration="none">Welcome To My Github Profile!<h2>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/3oxHQM2nelb4qWtoje/giphy.gif" />
 </div>
+    
+---
   
 ## 🤔 Who am I?
 
