@@ -38,15 +38,13 @@
 
 #### 🔨 I'm currently developing....
 
-  1. A Vue 3 portfolio.
-  2. A Pantry App
+  1. A Pantry App
 
 #### 🔮 Near Future Accomplishments...
 
-  1. Deployment of Pantry App
-  2. Learn Python Language
-  3. Convert Raspberry Pi to Cloud server
-  4. Develop Personal AI Assistant hosted on new cloud server.
+  1. Learn Python Language
+  2. Convert Raspberry Pi to Cloud server
+  3. Develop Personal AI Assistant hosted on new cloud server.
   
   
 ## :hammer_and_wrench: Languages and Tools: 
