@@ -72,7 +72,7 @@
 ## Current Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/austdobe/Super-Webscraper/pull/4) in [austdobe/Super-Webscraper](https://github.com/austdobe/Super-Webscraper)
+1. ❗️ Opened issue [#1](https://github.com/Ikigai-Coaching-Consulting-LLC/Ikigai-Coaching-Consulting-LLC/issues/1) in [Ikigai-Coaching-Consulting-LLC/Ikigai-Coaching-Consulting-LLC](https://github.com/Ikigai-Coaching-Consulting-LLC/Ikigai-Coaching-Consulting-LLC)
 <!--END_SECTION:activity-->
 
 
