@@ -72,7 +72,7 @@
 ## Current Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Ikigai-Coaching-Consulting-LLC/Ikigai-Coaching-Consulting-LLC.github.io/pull/7) in [Ikigai-Coaching-Consulting-LLC/Ikigai-Coaching-Consulting-LLC.github.io](https://github.com/Ikigai-Coaching-Consulting-LLC/Ikigai-Coaching-Consulting-LLC.github.io)
+1. 💪 Opened PR [#10](https://github.com/Ikigai-Coaching-Consulting-LLC/Ikigai-Coaching-Consulting-LLC.github.io/pull/10) in [Ikigai-Coaching-Consulting-LLC/Ikigai-Coaching-Consulting-LLC.github.io](https://github.com/Ikigai-Coaching-Consulting-LLC/Ikigai-Coaching-Consulting-LLC.github.io)
 <!--END_SECTION:activity-->
 
 
