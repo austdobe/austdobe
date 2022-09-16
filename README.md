@@ -72,7 +72,7 @@
 ## Current Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/Ikigai-Coaching-Consulting-LLC/Ikigai-Coaching-Consulting-LLC.github.io/pull/10) in [Ikigai-Coaching-Consulting-LLC/Ikigai-Coaching-Consulting-LLC.github.io](https://github.com/Ikigai-Coaching-Consulting-LLC/Ikigai-Coaching-Consulting-LLC.github.io)
+1. 🎉 Merged PR [#1](https://github.com/austdobe/austdobe_react_components/pull/1) in [austdobe/austdobe_react_components](https://github.com/austdobe/austdobe_react_components)
 <!--END_SECTION:activity-->
 
 
