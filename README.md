@@ -72,7 +72,7 @@
 ## Current Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/Ikigai-Coaching-Consulting-LLC/Ikigai-Coaching-Consulting-LLC.github.io/issues/6) in [Ikigai-Coaching-Consulting-LLC/Ikigai-Coaching-Consulting-LLC.github.io](https://github.com/Ikigai-Coaching-Consulting-LLC/Ikigai-Coaching-Consulting-LLC.github.io)
+1. 💪 Opened PR [#23](https://github.com/Ikigai-Coaching-Consulting-LLC/Ikigai-Coaching-Consulting-LLC.github.io/pull/23) in [Ikigai-Coaching-Consulting-LLC/Ikigai-Coaching-Consulting-LLC.github.io](https://github.com/Ikigai-Coaching-Consulting-LLC/Ikigai-Coaching-Consulting-LLC.github.io)
 <!--END_SECTION:activity-->
 
 
