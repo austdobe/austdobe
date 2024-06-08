@@ -25,7 +25,7 @@
 #### I am a ... 
 
   -  💻 Full Stack JavaScript Developer, who
-  -  🧑‍🏫 Has expeirence developing TechEd software.
+  -  🧑‍🏫 Has expeirence developing TechEd and IOT software.
   -  🧑‍💻 Developed and maintained over 30 different applications.
 
 #### When I am not developing, I am a...
