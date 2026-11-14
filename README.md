@@ -1,17 +1,17 @@
 # Hi, I'm Austin Dober 👋
 
-**Full-stack developer · Frontend engineer · UX/UI builder**
+**Full-stack developer focused on practical products and clear interfaces.**
 
-I build practical web apps that make everyday life easier, with a focus on clear interfaces and useful workflows. My background includes education technology and IoT software, and my current work spans home maintenance, family tools, and reusable interfaces.
+I build tools for homes and families, drawing on a background in education technology and IoT.
 
 [Portfolio](https://austindober.com) · [LinkedIn](https://linkedin.com/in/austin-dober) · [Dober Family Ventures](https://doberfamilyventures.com)
 
 ## What I'm building
 
 ### 🏠 Maintley
-A home maintenance and property memory app for keeping tasks, equipment, documents, and maintenance history together.
+My flagship product at **[Dober Family Ventures](https://github.com/DoberFamilyVentures)**: a home maintenance and property memory app.
 
-Built through **[Dober Family Ventures](https://github.com/DoberFamilyVentures)**.
+Maintley connects recurring maintenance schedules with equipment records and service history, keeping completed work useful long after the task is done.
 
 [Explore Maintley](https://maintleyapp.com/)
 
@@ -26,7 +26,7 @@ A family app built around jobs, rewards, savings goals, and shared responsibilit
 [View the repository](https://github.com/DoberFamilyVentures/FamilyEconomy)
 
 ### 🛠️ Dober Family Ventures
-The company website connecting our ventures and the mission behind them: building businesses that strengthen households.
+The home for our ventures and the mission behind them.
 
 [Visit the website](https://doberfamilyventures.com) · [View the repository](https://github.com/DoberFamilyVentures/doberfamilyventures.github.io)
 
@@ -38,9 +38,7 @@ The company website connecting our ventures and the mission behind them: buildin
 
 ## Code & contributions
 
-My projects live across **[my personal repositories](https://github.com/austdobe?tab=repositories)** and **[Dober Family Ventures](https://github.com/DoberFamilyVentures)**. Some product source code is private; the public projects and product links above are the best places to explore my work.
-
-See my contribution graph and activity below, or [view my Dober Family Ventures activity](https://github.com/austdobe?tab=overview&org=DoberFamilyVentures).
+Explore [my public repositories](https://github.com/austdobe?tab=repositories) and [Dober Family Ventures activity](https://github.com/austdobe?tab=overview&org=DoberFamilyVentures). Some product code is private; public projects are linked above, with contributions below.
 
 ## Away from the keyboard
 
